@@ -1,0 +1,5 @@
+{"name":"calc","version":"0.0.1","description":"cli calculator","deps":[
+  "stdio",
+  "stdlib",
+  "math"
+]}
