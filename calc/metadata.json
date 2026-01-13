@@ -1,5 +1,0 @@
-{"name":"calc","version":"0.0.1","description":"cli calc","deps":[
-  "stdio",
-  "stdlib",
-  "math"
-]}
